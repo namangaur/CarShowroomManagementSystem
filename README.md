@@ -1,47 +1,24 @@
 # CarShowroomManagementSystem
-An inventory management system with the feature of managing the details of the cars and their customers.
-
-========================
-BUILD OUTPUT DESCRIPTION
-========================
-
-
-
-When you build an Java application project that has a main class, 
-the IDE 
-automatically copies all of the JAR
-files on the projects classpath to your projects dist/lib folder. 
-The IDE 
-also adds each of the JAR files to the Class-Path element in the application
-JAR files manifest file (MANIFEST.MF).
-
-
-To run the project from the command line, go to the dist folder and 
-type the following:
-
-java -jar "CarShowroom.jar".
-
-
-To distribute this project, zip up the dist folder (including the lib folder)
-and distribute the ZIP file.
-
-
-Notes:
-
-* If two JAR files on the project classpath have the same name, only the first
-JAR file is copied to the lib folder.
-* 
-Only JAR files are copied to the lib folder.
-If the classpath contains other types of files or folders, these files (folders)
-are not copied.
-
-* If a library on the projects classpath also has a Class-Path element
-specified in the manifest,
-the content of the Class-Path element has to be on
-the projects runtime path.
-*
-To set a main class in a standard Java project, right-click the project node
-in the Projects window and choose Properties. 
-Then click Run and enter the
-class name in the Main Class field. Alternatively, you can manually type the
-class name in the manifest Main-Class element.
+##An inventory management system with the feature of managing the details of the cars and their customers.
+ 
+ 
+ ###Getting Started with the project :-
+ 
+ +1. Firstly, **fork** this repo from **namangaur/CarShowroomManagementSystem** by clicking on fork button.
+ +
+ +2. Now **clone** the forked repo in your pc. For this first copy the url of your forked repo (use terminal or git bash):
+ +   
+ +   	`git clone https://github.com/[username]/CarShowroomManagementSystem.git`
+ +   
+ +   	[username] is replaced by your github username
+ +   
+ +3. Finally, open this project in any Text Editor.
+ +
+ 
+ +###How to contribute in this project :-
+ +
+ +1. Go through the entire project after building it, find bugs and report them.
+ +
+ +2. View the issues put up in the repo and try to fix them.
+ +
+ +3. **IMPORTANT** :- Before sending a **Pull Request** make sure that your forked repo is in sync with the base repo.
